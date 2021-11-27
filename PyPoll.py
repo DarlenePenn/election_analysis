@@ -81,11 +81,6 @@ winning_candidate_summary = (
     f"------------------------------\n")
 print(winning_candidate_summary)
 
-#Print the total votes
-#print(total_votes)
-#Print the Candidate List
-#print(candidate_options)
-#Print the candidate vote dictionary
-#print(candidate_votes)
+
 
 
