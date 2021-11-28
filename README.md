@@ -15,7 +15,7 @@
 
 ## *Election Audit Results*
 
-![Election Analysis](analysis/election_analysis.txt)
+(analysis/election_analysis.txt)
 * There were 369,711 votes cast in this congressional election.
 * The precinct is comprised of three counties: 
     - Jefferson County, which had 38,855 votes (or 10.5%)
