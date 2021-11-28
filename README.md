@@ -9,7 +9,7 @@
 4. Calculate the percentage of votes each candidate won.
 5. Determin the winner of the election based on popular vote.
 
-##*Resources*
+## *Resources*
 - Data Source: election_results.csv
 - Software: Python 3.7.11, Visual Studio Code, 
 
@@ -27,8 +27,8 @@
     - Raymon Anthony Doane, who received 3.1% of the the votes, 11,606 total
 * The winner of the election was Diana DeGette
 
-### Challenge Overview...
+## Challenge Overview...
 xxx
 
-### Challenge Summary...
+## Challenge Summary...
 xxx
