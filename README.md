@@ -11,7 +11,7 @@
 
 ## *Resources*
 - Data Source: election_results.csv
-- Software: Python 3.7.11, Visual Studio Code, 
+- Software: Python 3.7.6, Visual Studio Code, 1.62.3
 
 ## *Election Audit Results*
 
